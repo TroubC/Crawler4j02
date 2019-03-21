@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/basicCrawler/BasicCrawlController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/basicCrawler/BasicCrawler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/collectingData/CrawlStat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/collectingData/Downloader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/collectingData/LocalDataCollectorController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/collectingData/LocalDataCollectorCrawler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/crawler/Controller.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/crawler/MyCrawler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/imageCrawler4j/ImageCrawlController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/imageCrawler4j/ImageCrawler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/multipleCrawlers/BasicCrawler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/java1234/multipleCrawlers/MultipleCrawlerController.java" charset="GBK" />
+  </component>
+</project>
